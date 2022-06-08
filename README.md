@@ -77,7 +77,7 @@ Você pode visualizar o layout do projeto através:
   - [ ] Tema Light / Dark
   - [ ] Melhorar o HTML/CSS de e-mail
   - [ ] Testes
-  - [x] Deploy
+  - [ ] Gerar o APK do Android e do IOS
 
 ## 📝 License
 
