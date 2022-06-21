@@ -78,6 +78,12 @@ Você pode visualizar o layout do projeto através:
   - [ ] Melhorar o HTML/CSS de e-mail
   - [ ] Testes
   - [ ] Gerar o APK do Android e do IOS
+  - [ ] Dashboard de feedbacks
+  - [ ] Página de Login
+  - [ ] Página de Admin com a exibição dos feedbacks
+  - [ ] Remover os feedbacks
+  - [ ] Responder os feedbacks
+  - [ ] Concluir os feedbacks
 
 ## 📝 License
 
